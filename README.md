@@ -2,8 +2,6 @@
 
 🤹‍♂️ New Media Artist / 👑 Entrepreneur / 💼 Product Manager / 🧪 Interaction Engineer / 🎹 Musician / 🧑‍🏫 Lecturer / 📸 Youtuber
 
-![](https://i.imgur.com/4oZIq5S.jpg)
-
 [Portfolio](https://cheyuwu.com/) | [Linktree](https://linktr.ee/cheyuwu) | [FaceBook](https://www.facebook.com/cheyuwu345/) |  [Twitter](https://twitter.com/cheyuwu345) | [Instagram](https://www.instagram.com/cheyuwu345/)
 | [Instagram (Generative Artworks)](https://www.instagram.com/cheyuwu345/) | [Linkedin](https://www.linkedin.com/in/cheyuwu/?locale=en_US) | [Youtube](https://www.youtube.com/channel/UCHX_XMhPrtvOmgGOnA2eTmA) 
 | [Online Course](https://hahow.in/@majer?tr=majer) | [Github](https://github.com/frank890417) | [Codepen](https://codepen.io/frank890417) | [Open Processing](https://openprocessing.org/user/139364/)
