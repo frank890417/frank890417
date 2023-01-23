@@ -8,6 +8,5 @@ Che-Yu is the founder of [Monoame Design](https://monoame.com/) 8 years ago and 
 
 In recent years after graduating from [**New York University, Integrated Digital Media MS**](http://idm.engineering.nyu.edu/), he devoted himself to advocating for and introducing over ten thousands students to **creative coding and new media art** through his Hahow online courses on animated website development and creative coding for interactive experience design.
 
-[Portfolio](https://cheyuwu.com/) | [Linktree](https://linktr.ee/cheyuwu) | [FaceBook](https://www.facebook.com/cheyuwu345/) |  [Twitter](https://twitter.com/cheyuwu345) | [Instagram](https://www.instagram.com/cheyuwu345/)
-| [Instagram (Generative Artworks)](https://www.instagram.com/cheyuwu345/) | [Linkedin](https://www.linkedin.com/in/cheyuwu/?locale=en_US) | [Youtube](https://www.youtube.com/channel/UCHX_XMhPrtvOmgGOnA2eTmA) 
-| [Online Course](https://hahow.in/@majer?tr=majer) | [Github](https://github.com/frank890417) | [Codepen](https://codepen.io/frank890417) | [Open Processing](https://openprocessing.org/user/139364/)
+Portaly: https://portaly.cc/cheyuwu
+Portaly(English): https://portaly.cc/cheyuwu_en
