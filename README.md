@@ -1,6 +1,6 @@
 # Che-Yu Wu 吳哲宇
 
-🤹‍♂️ New Media Artist / 👑 Entrepreneur / 💼 Product Manager / 🧪 Interaction Engineer / 🎹 Musician / 🧑‍🏫 Lecturer / 📸 Youtuber
+Generative Artist / CEO of Monoame Interactive
 
 Che-Yu Wu is a **New media artist, designer, engineer, speaker, and entrepreneur** who enjoys quirky and unique things. By combining the rationality of his electrical engineering background in [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw/) with the sentimentality of visual design, he draws inspirations from **nature, physics, modern art, mathematical rhythm, and music** to create compounding algorithmic works, explore the border between art and engineering, and establish unparalleled interactive experiences. 
 
